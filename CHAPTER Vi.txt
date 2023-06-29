@@ -1,3 +1,47 @@
+in order:: Summary, Rebuttals, Chapter Text
+
+The Nature of Truth
+Truth is a property of statements.
+A statement is true if it corresponds to reality.
+A statement is false if it does not correspond to reality.
+Theories of Truth
+The correspondence theory of truth says that the truth of a statement is its correspondence to reality.
+The coherence theory of truth says that the truth of a statement is its coherence with other statements.
+The pragmatic theory of truth says that the truth of a statement is its usefulness.
+The Problems of Truth
+There are some problems with the correspondence theory of truth.
+How do we know what reality is?
+How do we know if a statement corresponds to reality?
+There are some problems with the coherence theory of truth.
+How do we know if a set of statements is coherent?
+What if there are two sets of statements that are both coherent, but contradict each other?
+There are some problems with the pragmatic theory of truth.
+How do we know if a statement is useful?
+What if a statement is useful, but not true?
+The chapter concludes by arguing that the correspondence theory of truth is the most satisfactory theory of truth. However, it also acknowledges that the theory has some limitations.
+
+Here are some additional points from the chapter:
+
+The truth of a statement is independent of the speaker's belief in the statement.
+The truth of a statement is also independent of the speaker's emotions or intentions.
+The truth of a statement is not affected by the passage of time.
+The chapter argues that the truth of a statement is a property of the statement itself, and is not dependent on anything else.
+
+
+
+Rebuttals
+
+Sure, here are a few rebuttals to the chapter on truth in The Meaning of Meaning:
+
+The correspondence theory of truth is too simplistic. The correspondence theory of truth says that a statement is true if it corresponds to reality. However, what does it mean for a statement to correspond to reality? How do we know what reality is? How do we know if a statement corresponds to reality? These are all difficult questions that the correspondence theory of truth does not adequately answer.
+The coherence theory of truth is too circular. The coherence theory of truth says that a statement is true if it coheres with other statements. However, how do we know if a set of statements coheres? We can only know if a set of statements coheres if we already know that the statements are true. This means that the coherence theory of truth is circular.
+The pragmatic theory of truth is too subjective. The pragmatic theory of truth says that a statement is true if it is useful. However, what does it mean for a statement to be useful? How do we know if a statement is useful? These are all difficult questions that the pragmatic theory of truth does not adequately answer. Additionally, the pragmatic theory of truth seems to imply that a statement can be true even if it is not factually accurate. This is a counterintuitive and troubling implication.
+These are just a few of the rebuttals that have been raised against the theories of truth discussed in Chapter VI of The Meaning of Meaning. These theories are not without their problems, and it is important to be aware of these problems when considering them.
+
+In addition to these rebuttals, it is also worth noting that there are other theories of truth that have been proposed. These theories include the deflationary theory of truth, the prosentential theory of truth, and the redundancy theory of truth. These theories offer different ways of understanding truth, and it is worth considering them as well.
+
+
+
 
 CHAPTER VI 
 

@@ -2,1303 +2,364 @@
 
 
 
-CHAPTER VIII 
+CHAPTER VIII  
+THE MEANING OF PHILOSOPHERS  
 
-THE MEANING OF PHILOSOPHERS 
+What do you read, my lord ? Polonius.  
+Words, words, words  Hamlet.  
+“ O wondrous power of words, by simple faith  Licensed to take the meaning that we love.”  
+Thus the poet; and observation does not invalidate  the perspicacious remark. It might, however, have  been supposed that logicians and psychologists would  have devoted special attention to meaning, since it is  so vital for all the issues with which they are concerned.  But that this is not the case will be evident * to anyone  who studies the Symposium in Mind (October 1920 and  following numbers) on “The Meaning of ‘Meaning.’”  
+It is perhaps unnecessary to point out that such  brief extracts from lengthy philosophical disquisitions  as the limits of this chapter allow, cannot fairly represent  any given author’s views upon that, whatever it may  be, if anything, for which he uses the word ‘ meaning.’  Some quotations, however, do tell their own tale; but  even where no actual absurdity transpires, the resort  
+* The foUowmg passage m Nuces Phtlosopktcee, by one Edward  Johnson, published in 1842, is worth recalhng.  
+" A I confess I am surprised that all this time you have never  yet once asked me what I mean by the word meaning.  
+“ B What then do you mean by the word meamng ’  
+" C Be patient You can only learn the meaning of the word  meamng from the consideration of the nature of ideas,  and their connection with things."  
+Half a century later, lAdy Welby quoted from this author in Mind  (i8g6), and complained that " Sense in the meaning sense has never  yet been taken as a centre to work out from attention, perception,  memory, judgment, etc, have never been crossexamined from the  direction of their common relation to a ‘ meamng ’ " And after tiie  lapse of a further twentyfive years we find Mr Russell admitting  (" On Propositions What they are and how they mean " Proc.  ■Anst Soc 1919) with the approval of Dr Schiller in the symposium  " that logicians have done very little towards explainmg the relation  called ‘ meamng ' "  
 
-
-What do you read, my lord ? Polonius. 
-
-Words, words, words  Hamlet. 
-
-“ O wondrous power of words, by simple faith 
-Licensed to take the meaning that we love.” 
-
-Thus the poet; and observation does not invalidate 
-the perspicacious remark. It might, however, have 
-been supposed that logicians and psychologists would 
-have devoted special attention to meaning, since it is 
-so vital for all the issues with which they are concerned. 
-But that this is not the case will be evident * to anyone 
-who studies the Symposium in Mind (October 1920 and 
-following numbers) on “The Meaning of ‘Meaning.’” 
-
-It is perhaps unnecessary to point out that such 
-brief extracts from lengthy philosophical disquisitions 
-as the limits of this chapter allow, cannot fairly represent 
-any given author’s views upon that, whatever it may 
-be, if anything, for which he uses the word ‘ meaning.’ 
-Some quotations, however, do tell their own tale; but 
-even where no actual absurdity transpires, the resort 
-
-* The foUowmg passage m Nuces Phtlosopktcee, by one Edward 
-Johnson, published in 1842, is worth recalhng. 
-
-" A I confess I am surprised that all this time you have never 
-yet once asked me what I mean by the word meaning. 
-
-“ B What then do you mean by the word meamng ’ 
-
-" C Be patient You can only learn the meaning of the word 
-meamng from the consideration of the nature of ideas, 
-and their connection with things." 
-
-Half a century later, lAdy Welby quoted from this author in Mind 
-(i8g6), and complained that " Sense in the meaning sense has never 
-yet been taken as a centre to work out from attention, perception, 
-memory, judgment, etc, have never been crossexamined from the 
-direction of their common relation to a ‘ meamng ’ " And after tiie 
-lapse of a further twentyfive years we find Mr Russell admitting 
-(" On Propositions What they are and how they mean " Proc. 
-■Anst Soc 1919) with the approval of Dr Schiller in the symposium 
-" that logicians have done very little towards explainmg the relation 
-called ‘ meamng ' " 
+160  
 
 
-160 
+THE MEANING OF PHILOSOPHERS i6i  
+to such a term in serious argument, as though it had  some accepted use, or as though the author’s use were  at once obvious, is a practice to be discredited.  
+Dr Schiller began by announcing that the Greek  language is “so defective that it can hardly be said  to have a vocabulary for the notion ” of meaning at all;  and in proceeding to state his own view that “ meaning  is essentially personal .... what anything means  depends on who means it,” he found it necessary to  traverse Mr Russell’s dictum that “ the problem of the  MEANING of words is reduced to the problem of the  meaning of images.” Mr Russell replied by en-
+deavouring “to give more precision to the definition  of MEANING by introducing the notion of ‘ mnemic  causation ’ ” and succeeded thereby in evolving an  instructive description of metaphysics. “ A word,” he  explained, “which aims at complete generality, such  as ‘entity,’ for example, will have to be devoid of  mnemic effects, and therefore of meaning. In practice,  this is not the case: such words have verbal associa-
+tions, the learning of which constitutes the study of  metaphj'sics.” Mr Joachim, who elected to stand aside  from the discussion, professed to find Mr Russell  “asserting that nobody can possibly think" and con-
+fined himself to an analysis of the function of images,  drawing attention in a footnote to the fact that for  Mr Russell meaning appeared (amongst other things)  as ‘a relation,’ that “a relation ‘constitutes’ meaning,  and that a word not only ‘ has ’ meaning, but is related  ‘ to its meaning.’ ”  
+This whole episode was characterized by Dr Schiller  six months later (April, 1921, p. 185) as presenting “ the  usual features of a philosophic discussion. That is to  say, it reads like a triangular duel, in which each  participant aims at something different, and according  to the other misses it, and hits a phantom.” In dealing  with details he quotes Mr Russell’s remark that “all  the words in which Dr Schiller endeavours to describe  
 
 
-
-THE MEANING OF PHILOSOPHERS i6i 
-
-to such a term in serious argument, as though it had 
-some accepted use, or as though the author’s use were 
-at once obvious, is a practice to be discredited. 
-
-Dr Schiller began by announcing that the Greek 
-language is “so defective that it can hardly be said 
-to have a vocabulary for the notion ” of meaning at all; 
-and in proceeding to state his own view that “ meaning 
-is essentially personal .... what anything means 
-depends on who means it,” he found it necessary to 
-traverse Mr Russell’s dictum that “ the problem of the 
-MEANING of words is reduced to the problem of the 
-meaning of images.” Mr Russell replied by en-
-deavouring “to give more precision to the definition 
-of MEANING by introducing the notion of ‘ mnemic 
-causation ’ ” and succeeded thereby in evolving an 
-instructive description of metaphysics. “ A word,” he 
-explained, “which aims at complete generality, such 
-as ‘entity,’ for example, will have to be devoid of 
-mnemic effects, and therefore of meaning. In practice, 
-this is not the case: such words have verbal associa-
-tions, the learning of which constitutes the study of 
-metaphj'sics.” Mr Joachim, who elected to stand aside 
-from the discussion, professed to find Mr Russell 
-“asserting that nobody can possibly think" and con-
-fined himself to an analysis of the function of images, 
-drawing attention in a footnote to the fact that for 
-Mr Russell meaning appeared (amongst other things) 
-as ‘a relation,’ that “a relation ‘constitutes’ meaning, 
-and that a word not only ‘ has ’ meaning, but is related 
-‘ to its meaning.’ ” 
-
-This whole episode was characterized by Dr Schiller 
-six months later (April, 1921, p. 185) as presenting “ the 
-usual features of a philosophic discussion. That is to 
-say, it reads like a triangular duel, in which each 
-participant aims at something different, and according 
-to the other misses it, and hits a phantom.” In dealing 
-with details he quotes Mr Russell’s remark that “all 
-the words in which Dr Schiller endeavours to describe 
-
-
-
-i 62 the meaning of MEANING 
-
-his unobservable entities imply that after all he can 
-observe them,” as a typical case of “the overriding of 
-actual MEANING by verbal, which could hardly be 
-surpassed from the writings of Mr Bradley.” 
-
-In July Mr Alfred Sidgwick explained (p. 285) that 
-“ MEANING depends on consequences, and truth depends 
-on MEANING ; ” and Professor Strong intervened (p. 313) 
-as a ‘ critical realist ’ to meet Dr Schiller’s objections 
-to Mr Russell and to render the latter’s theory intelli-
-gible to Mr Joachim. He illustrated his rendering by 
-imagining an explosion. When we hear what we call 
-an explosion, “ the sound has not so much acquired, 
-as become converted into a meaning. . . . What is 
-nonconcrete and nonsensuous is always a meaning, 
-a sense of that unfathomed beyond which we cannot 
-contemplate but only intend. . . . To mean something 
-is to conceive or rather treat it as not wholly revealed 
-to the mind at the moment.” 
-
-To this Dr Schiller rejoins that Dr Strong always 
-confines his attention to the case “ in which an ‘ object ’ 
-is said to ‘mean soandso.’” This, he thinks, “im-
+i 62 the meaning of MEANING  
+his unobservable entities imply that after all he can  observe them,” as a typical case of “the overriding of  actual MEANING by verbal, which could hardly be  surpassed from the writings of Mr Bradley.”  
+In July Mr Alfred Sidgwick explained (p. 285) that  “ MEANING depends on consequences, and truth depends  on MEANING ; ” and Professor Strong intervened (p. 313)  as a ‘ critical realist ’ to meet Dr Schiller’s objections  to Mr Russell and to render the latter’s theory intelli-
+gible to Mr Joachim. He illustrated his rendering by  imagining an explosion. When we hear what we call  an explosion, “ the sound has not so much acquired,  as become converted into a meaning. What is  nonconcrete and nonsensuous is always a meaning,  a sense of that unfathomed beyond which we cannot  contemplate but only intend. To mean something  is to conceive or rather treat it as not wholly revealed  to the mind at the moment.”  
+To this Dr Schiller rejoins that Dr Strong always  confines his attention to the case “ in which an ‘ object ’  is said to ‘mean soandso.’” This, he thinks, “im-
 poses on him the duties of deriving the personal mean-
-ing, and of explaining the relativity of ‘ the ’ meaning 
-of an object to various cognitive purposes and personal 
-meanings” (p. 445). He concludes (p. 447) that “the 
-existence of personal meaning remains a pitfall in the 
-path of all intellectual ism.” The controversy is pre-
-sumably still in progress. 
-
-Contemporaneously with the Symposium on Meaning 
-which appeared in Mind, an inquiry into the nature of 
-Aphasia was appearing in Brain ^ and during the dis-
-cussion of Dr Head’s views the question of meaning 
-came to the front. A special memorandum suggested 
-by the treatment of ‘semantic aphasia,’ was handed in 
-by Dr J. Herbert Parsons,” and it throws interesting 
-
-1 1920 Vol XLIII , Parts II and IV 
-
-“ " The Psychology of ' Meaning ’ in its Relation to Aphasia " 
-Ibid , p 441 
+ing, and of explaining the relativity of ‘ the ’ meaning  of an object to various cognitive purposes and personal  meanings” (p. 445). He concludes (p. 447) that “the  existence of personal meaning remains a pitfall in the  path of all intellectual ism.” The controversy is pre-
+sumably still in progress.  
+Contemporaneously with the Symposium on Meaning  which appeared in Mind, an inquiry into the nature of  Aphasia was appearing in Brain ^ and during the dis-
+cussion of Dr Head’s views the question of meaning  came to the front. A special memorandum suggested  by the treatment of ‘semantic aphasia,’ was handed in  by Dr J. Herbert Parsons,” and it throws interesting  
+1 1920 Vol XLIII , Parts II and IV  
+“ " The Psychology of ' Meaning ’ in its Relation to Aphasia "  Ibid , p 441  
 
 
+THE MEANING OF PHILOSOPHERS 163  
 
-THE MEANING OF PHILOSOPHERS 163 
-
-
-light on the degree of assistance which neurologists 
-can be expected to derive from the work of philosophers 
-in this held. According to Dr Parsons, at the lowest 
-biological level “it would be unwise to deny the 
-presence of a plus or minus affective toneand this is 
-the primitive germ of ‘meaning.’” At the perceptual 
-level, however, “the relatively undifferentiated psycho-
-plasm is differentiated into specialized affective and 
-cognitive elements, which are reintegrated, thus under-
-going a synthesis which is the ‘ meaning ’ of the given 
-experience. Perceptual ‘ meaning ’ suffused with affec-
-tive tone, issues in instinctive conative activity.” Thus 
-at the end of the completed reaction “the ‘meaning’ 
-has become enriched and complicated. . . . This altered 
-‘ meaning ’ is stored up, and, though depressed below 
-the threshold of consciousness, is capable of "being 
-revived. . . . The integration and synthesis of the 
-already more plastic psychoplasm results in a higher, 
-more complex type of ‘ meaning.’ ” Later the influence 
-of social environment makes itself felt, and in the com-
-plicated process of social intercourse “ the ultimate 
-results are equivalent to an interaction of old and new 
-‘ meanings,’ resulting in an infinity of still newer, richer 
-and more refined ‘ meanings.’” At this stage “the 
-creative activities assume a synergy at a higher level,” 
-and “show a projicience hitherto absent.” The child’s 
-“ gestures are no longer merely passive signs of his 
-mind’s activities, but active indications of his feelings 
-and desires. This is the dawn of language.” 1 
-
-A detailed analysis of the Mtnd Symposium might 
-have been instructive as a preliminary to the framing 
-of a set of definitions, but its technique was unusually 
-disappointing,^ and since in any case the metaphysical 
-arena of the Old World inevitably suggests to many 
-an atmosphere of barren logomachy, we may more 
-
-^ Owing largely to the temperamental incompatibility of the sym 
-posiasts Mr Russell, moreover, has now superseded his contribution 
-by the relevant chapters of hi’ Analysis of Mtnd, to which reference 
-has already been made (p 54) 
+light on the degree of assistance which neurologists  can be expected to derive from the work of philosophers  in this held. According to Dr Parsons, at the lowest  biological level “it would be unwise to deny the  presence of a plus or minus affective toneand this is  the primitive germ of ‘meaning.’” At the perceptual  level, however, “the relatively undifferentiated psycho-
+plasm is differentiated into specialized affective and  cognitive elements, which are reintegrated, thus under-
+going a synthesis which is the ‘ meaning ’ of the given  experience. Perceptual ‘ meaning ’ suffused with affec-
+tive tone, issues in instinctive conative activity.” Thus  at the end of the completed reaction “the ‘meaning’  has become enriched and complicated. This altered  ‘ meaning ’ is stored up, and, though depressed below  the threshold of consciousness, is capable of "being  revived. The integration and synthesis of the  already more plastic psychoplasm results in a higher,  more complex type of ‘ meaning.’ ” Later the influence  of social environment makes itself felt, and in the com-
+plicated process of social intercourse “ the ultimate  results are equivalent to an interaction of old and new  ‘ meanings,’ resulting in an infinity of still newer, richer  and more refined ‘ meanings.’” At this stage “the  creative activities assume a synergy at a higher level,”  and “show a projicience hitherto absent.” The child’s  “ gestures are no longer merely passive signs of his  mind’s activities, but active indications of his feelings  and desires. This is the dawn of language.” 1  
+A detailed analysis of the Mtnd Symposium might  have been instructive as a preliminary to the framing  of a set of definitions, but its technique was unusually  disappointing,^ and since in any case the metaphysical  arena of the Old World inevitably suggests to many  an atmosphere of barren logomachy, we may more  
+^ Owing largely to the temperamental incompatibility of the sym  posiasts Mr Russell, moreover, has now superseded his contribution  by the relevant chapters of hi’ Analysis of Mtnd, to which reference  has already been made (p 54)  
 
 
-
-i64 the meaning OF MEANING 
-
-profitably deal with the confusions which arise as 
-occasion allows and cite here the procedure of the 
-latest cooperative product of the New. The Essays in 
-Critical Realism^ which made their appearance in 1920, 
-are the work of seven American Professors who have 
-revised and redrafted their language until it met the 
-approval of all the other essayists. They are the fruits 
-of a decade of controversy in a limited controversial 
-field, where “ our familiarity with one another’s mean-
-ing has enabled us to understand methods of expression 
-from which at first we were inclined to dissent.” The 
-main issues of the controversy had already been elabor-
-ated, as the result of conferences begun in 19089, in a 
-similar cooperative volume by six Neorealists. The 
-final outcome may be regarded as the clarification of 
-the life’s work of a dozen specialists, ail of whom have 
-been continuously improving their mutual terminology 
-in the full view of the public for over a decade. 
-
-With the earlier volume we need not here concern 
-ourselves except to note that in the Introduction, where 
-a scrupulous use of words and the importance of clear 
-definitions are insisted on, there occur the following 
-remarks; 
-
-“In exact discourse the meaning of every term must be 
-reviewed ” , 
-
-" If we cannot express our meaning in exact terms, let us at 
-least cultivate literature ’' 
-
-“ Idealism has meant nothmg to the actual psychologist." 
-
-while in the final essay we find Professor Pitkin 
-objecting at a crucial point that Alexander and Nunn 
-“treat only the stuff of hallucinatory objects as real, 
-leaving the erroneous meanings more or less products 
-of a construing mind.” 
-
-Since that date, 1912, the word ‘meaning’ has not 
-ceased to play a decisive part in every dispute, and as 
-the Critical Realists have had such ample opportunity 
-of avoiding any ambiguities into which the Neo 
+i64 the meaning OF MEANING  
+profitably deal with the confusions which arise as  occasion allows and cite here the procedure of the  latest cooperative product of the New. The Essays in  Critical Realism^ which made their appearance in 1920,  are the work of seven American Professors who have  revised and redrafted their language until it met the  approval of all the other essayists. They are the fruits  of a decade of controversy in a limited controversial  field, where “ our familiarity with one another’s mean-
+ing has enabled us to understand methods of expression  from which at first we were inclined to dissent.” The  main issues of the controversy had already been elabor-
+ated, as the result of conferences begun in 19089, in a  similar cooperative volume by six Neorealists. The  final outcome may be regarded as the clarification of  the life’s work of a dozen specialists, ail of whom have  been continuously improving their mutual terminology  in the full view of the public for over a decade.  
+With the earlier volume we need not here concern  ourselves except to note that in the Introduction, where  a scrupulous use of words and the importance of clear  definitions are insisted on, there occur the following  remarks;  
+“In exact discourse the meaning of every term must be  reviewed ” ,  
+" If we cannot express our meaning in exact terms, let us at  least cultivate literature ’'  
+“ Idealism has meant nothmg to the actual psychologist."  
+while in the final essay we find Professor Pitkin  objecting at a crucial point that Alexander and Nunn  “treat only the stuff of hallucinatory objects as real,  leaving the erroneous meanings more or less products  of a construing mind.”  
+Since that date, 1912, the word ‘meaning’ has not  ceased to play a decisive part in every dispute, and as  the Critical Realists have had such ample opportunity  of avoiding any ambiguities into which the Neo  
 
 
-
-THE MEANING OF PHILOSOPHERS 165 
-
-Realists may have fallen, we may, as far as Realism is 
-concerned, confine ourselves to their efforts. 
-
-First comes Professor Drake, of Vassar : 
-
-"Tlie very meaning of ‘ existence ’ involves a definite locus " 
-(P 16) 
-
+THE MEANING OF PHILOSOPHERS 165  
+Realists may have fallen, we may, as far as Realism is  concerned, confine ourselves to their efforts.  
+First comes Professor Drake, of Vassar :  
+"Tlie very meaning of ‘ existence ’ involves a definite locus "  (P 16)  
 "The very meanisg of the term ‘relation’ includes refer-
-ence to something related " (p ig). 
-
-These two statements are used to lead up to the view 
-that perceptual data “cannot be the same existents as 
-their causes,” and that we “get back somewhere to 
-qualities.” 
-
-It would be a large undertaking, continues Professor 
-Lovejoy, to “analyse the meanings” of the formula-
+ence to something related " (p ig).  
+These two statements are used to lead up to the view  that perceptual data “cannot be the same existents as  their causes,” and that we “get back somewhere to  qualities.”  
+It would be a large undertaking, continues Professor  Lovejoy, to “analyse the meanings” of the formula-
 tions of Pragmatism, which “ began as a theory con-
-cerning the conditions under which concepts and 
-propositions may be said to possess meaning, and 
-concerning the nature of that in which all meanings 
-must consist” The pragmatist, he holds, ignores the 
-patent fact that “ many of our meanings are retro-
-spective. . . . No logical hocuspocus can transub-
-stantiate the MEANING ‘yesterday’ into the meaning 
-‘ tomorrow ’ . . . . It is, in very truth, a meaning 
-intrinsically incapable of directlyexperienced fulfil-
-ment. . . . Without ever actually experiencing the 
-fulfilment of these meanings, we nevertheless have an 
-irresistible propensity to believe that some of them are 
-in fact valid meanings. ... A judgment is its own 
-master in deciding what it means, though not in 
-deciding as to the fulfilment of its meanings.” 
-
-According to Professor Pratt, the NeoRealists 
-“performed a most fruitful piece of analysis in insist-
-ing that the data presented to our thought consist of 
-MEANINGS or natures,” but they did not distinguish 
-“between these meanings and the sensational part of 
-our mental states on the one hand and the existential 
-physical objects to which the meanings are attributed 
-on the other.” A number of people might describe 
-their conception of anything differently though all 
+cerning the conditions under which concepts and  propositions may be said to possess meaning, and  concerning the nature of that in which all meanings  must consist” The pragmatist, he holds, ignores the  patent fact that “ many of our meanings are retro-
+spective. No logical hocuspocus can transub-
+stantiate the MEANING ‘yesterday’ into the meaning  ‘ tomorrow ’ . It is, in very truth, a meaning  intrinsically incapable of directlyexperienced fulfil-
+ment. Without ever actually experiencing the  fulfilment of these meanings, we nevertheless have an  irresistible propensity to believe that some of them are  in fact valid meanings... A judgment is its own  master in deciding what it means, though not in  deciding as to the fulfilment of its meanings.”  
+According to Professor Pratt, the NeoRealists  “performed a most fruitful piece of analysis in insist-
+ing that the data presented to our thought consist of  MEANINGS or natures,” but they did not distinguish  “between these meanings and the sensational part of  our mental states on the one hand and the existential  physical objects to which the meanings are attributed  on the other.” A number of people might describe  their conception of anything differently though all  
 
 
-
-i66 THE MEANING OF MEANING 
-
+i66 THE MEANING OF MEANING  
 “meant, or thought of, the same thing.” He pro-
-ceeds to distinguish (p. 90) between the meaning which 
-one entertains in conception “and images which are 
-the ‘ vehicle ’ of our meaning. This meaning is that 
-which we find directly given to our thought,” and he 
-holds “this meaning or datum is often capable of 
-exact definition, t.e., it has, or rather ts, a definable 
-nature.” Perception, equally with conception, “con-
-tains not merely sensuous and revived images but a 
-large element of meaning as well.” Usually, All the 
-sensed qualities are included within those meant." As 
-regards outer reference (p. 92) “this may be regarded 
-as part of the datum or meaning of perception, but it 
-is an easily distinguishable part.” Thanks to past 
-reactions, the qualitygroup “ of which one is aware, 
-directly means more than it is. As a result of all 
-one’s past experience it has come to stand for an 
-active entity.” This qualitygroup “means, or tm 
-mediately implies to the individual the presence and, 
-to a considerable extent, the nature of some active 
-entity of which it is well for him to be aware. It is 
-in short tlie means of his perceiving the object." In con-
-clusion he maintains that though Critical Realists 
-“do not pretend to an exhaustive knowledge of the 
-inner nature of physical entities, we have defined them 
-sufficiently to know what we mean by*them, and to 
-make that meaning perfectly plain to every one but 
-the perversely blind.” 
-
-Professor Rogers of Yale, who deals with Error, 
-complains that Bosanquet failed to understand the 
-question of “ degrees of truth ” because of his “ annoy-
+ceeds to distinguish (p. 90) between the meaning which  one entertains in conception “and images which are  the ‘ vehicle ’ of our meaning. This meaning is that  which we find directly given to our thought,” and he  holds “this meaning or datum is often capable of  exact definition, t.e., it has, or rather ts, a definable  nature.” Perception, equally with conception, “con-
+tains not merely sensuous and revived images but a  large element of meaning as well.” Usually, All the  sensed qualities are included within those meant." As  regards outer reference (p. 92) “this may be regarded  as part of the datum or meaning of perception, but it  is an easily distinguishable part.” Thanks to past  reactions, the qualitygroup “ of which one is aware,  directly means more than it is. As a result of all  one’s past experience it has come to stand for an  active entity.” This qualitygroup “means, or tm  mediately implies to the individual the presence and,  to a considerable extent, the nature of some active  entity of which it is well for him to be aware. It is  in short tlie means of his perceiving the object." In con-
+clusion he maintains that though Critical Realists  “do not pretend to an exhaustive knowledge of the  inner nature of physical entities, we have defined them  sufficiently to know what we mean by*them, and to  make that meaning perfectly plain to every one but  the perversely blind.”  
+Professor Rogers of Yale, who deals with Error,  complains that Bosanquet failed to understand the  question of “ degrees of truth ” because of his “ annoy-
 ing refusal to keep sharply separate the varying mean-
-ings of terms. It is not a question whether the same 
-form of words means the same thing to different people. 
-It is a question whether any given meaning singly, 
-whatever it may be, is successful in corresponding to 
-the fact” (p. 123). Of Mr Joachim’s account of things 
-in terms of systems, he remarks that “If we insist on 
+ings of terms. It is not a question whether the same  form of words means the same thing to different people.  It is a question whether any given meaning singly,  whatever it may be, is successful in corresponding to  the fact” (p. 123). Of Mr Joachim’s account of things  in terms of systems, he remarks that “If we insist on  
 
 
-
-THE MEANING OF PHILOSOPHERS 167 
-
-defining the meaning of a fact in terms of its place in 
-a system, naturally it will cease to have that meaning 
-outside the system ” (p. 125). 
-
-As regards identity “ we naturally make a clear 
-distinction between the characters of things as em-
-bodied in MEANINGS which we attribute to them, and 
-the real existence of these characters in the things 
-themselves. . . . The ‘identity of indiscernibles’ ap-
-plies to abstract logical meanings, not to existents. 
-Meanings we may call the sameprovided we can 
-detect no difference in them^just because their ‘char-
-acter ’ is all there is to them; but things are not 
-necessarily the same when they are alike” (p. 131). 
-Professor Holt’s analysis is, he thinks, an “approxim-
-ately correct account of what the critical realist intends 
-to refer to under the head of essences, or human mean-
-ings. But for him the problem of knowledge consists, 
-not merely in the presence of these meanings pr data, 
-but in their reference to the actual object” (p. 133). 
-Professor Perry’s difficulties as regards error vanish 
-if we grant the distinction “between the something 
-as an existent about which I have a belief, and the some-
-thing (as an intellectual content or meaning or essence) 
-which I believe about it.” When in error, we have a 
-'•MEANING before the mind,” and wrongly suppose that 
-it characterises a real object. 
-
-Dr Santayana urges that though without our animal 
-bodies “ appearance would lose its seat and its focus, 
-and without an external object would lose its signifi-
-cance,” we can yet take appearance absolutely and 
-“inhibit all reaction and understanding”; but since 
-even the passive and immediate data of appearance, 
-“its bare signals and language when stupidly gazed 
-at” have aesthetic reality, “the special and insidious 
-kind of reality opposed to appearance must mean an 
-underlying reality, a substance ■ and it had better be 
-called by that name.” And he introduces to us 
-Essences = U niversals = I ntuited aesthetic data“ sym 
+THE MEANING OF PHILOSOPHERS 167  
+defining the meaning of a fact in terms of its place in  a system, naturally it will cease to have that meaning  outside the system ” (p. 125).  
+As regards identity “ we naturally make a clear  distinction between the characters of things as em-
+bodied in MEANINGS which we attribute to them, and  the real existence of these characters in the things  themselves. The ‘identity of indiscernibles’ ap-
+plies to abstract logical meanings, not to existents.  Meanings we may call the sameprovided we can  detect no difference in them^just because their ‘char-
+acter ’ is all there is to them; but things are not  necessarily the same when they are alike” (p. 131).  Professor Holt’s analysis is, he thinks, an “approxim-
+ately correct account of what the critical realist intends  to refer to under the head of essences, or human mean-
+ings. But for him the problem of knowledge consists,  not merely in the presence of these meanings pr data,  but in their reference to the actual object” (p. 133).  Professor Perry’s difficulties as regards error vanish  if we grant the distinction “between the something  as an existent about which I have a belief, and the some-
+thing (as an intellectual content or meaning or essence)  which I believe about it.” When in error, we have a  '•MEANING before the mind,” and wrongly suppose that  it characterises a real object.  
+Dr Santayana urges that though without our animal  bodies “ appearance would lose its seat and its focus,  and without an external object would lose its signifi-
+cance,” we can yet take appearance absolutely and  “inhibit all reaction and understanding”; but since  even the passive and immediate data of appearance,  “its bare signals and language when stupidly gazed  at” have aesthetic reality, “the special and insidious  kind of reality opposed to appearance must mean an  underlying reality, a substance ■ and it had better be  called by that name.” And he introduces to us  Essences = U niversals = I ntuited aesthetic data“ sym  
 
 
-
-i68 THE MEANING OF MEANING 
-
-bols of sense or thought” (p. 165), which may be 
-identical with the essences embodied in the substance 
-though “the intention and the embodiment remain 
-different in existence, origin, date, place, substance, 
-function and duration.” 
-
-That the individual’s field of experience “has a 
-certain structure, and is shot through with meanings 
-and affirmations,” seems to Professor Sellars of Michi-
-gan “a matter of undeniable fact.” The chief error 
-of much contemporary thought is the refusal to recog-
-nize “that thinghood and perception go together” ; in 
-other words, in the percipient, “we have the content 
-of perception, and over against it in a qualifying way, 
-the motor complex of adjustment combined with the 
-realistic meanings and expectations which are char-
-acteristic of perception.” What is needed is, he holds, 
-“a patient and persistent analysis which is able to go 
-forward step by step while doing justice to the structure 
-and MEANINGS of the individual’s experience ” (p. 197). 
-And as regards knowledge of the past, “we can mean 
-a reality which no longer exists equally with a reality 
-which exists at the time of the intention ” (p. 215). 
-
-Professor Sellars makes the following distinction : 
-
+i68 THE MEANING OF MEANING  
+bols of sense or thought” (p. 165), which may be  identical with the essences embodied in the substance  though “the intention and the embodiment remain  different in existence, origin, date, place, substance,  function and duration.”  
+That the individual’s field of experience “has a  certain structure, and is shot through with meanings  and affirmations,” seems to Professor Sellars of Michi-
+gan “a matter of undeniable fact.” The chief error  of much contemporary thought is the refusal to recog-
+nize “that thinghood and perception go together” ; in  other words, in the percipient, “we have the content  of perception, and over against it in a qualifying way,  the motor complex of adjustment combined with the  realistic meanings and expectations which are char-
+acteristic of perception.” What is needed is, he holds,  “a patient and persistent analysis which is able to go  forward step by step while doing justice to the structure  and MEANINGS of the individual’s experience ” (p. 197).  And as regards knowledge of the past, “we can mean  a reality which no longer exists equally with a reality  which exists at the time of the intention ” (p. 215).  
+Professor Sellars makes the following distinction :  
 " Knowledge of other concurrences is different from know-
-ledge of the physical world It is a knowledge through asserted 
-identity of content, whereas knowledge of the 'physical world 
-IS information about data Thus when I mterpret an expression 
-on the face of my friend as meaning amusement I use the ex-
-pression as a symbol of an experience which I regard as in its 
-essentials the same for him as for me " (p 217). 
-
-Finally Professor Strong who examines the nature 
-of the ‘datum,’ which he replaces by Santayana’s 
-‘ essence ’ (which, as we have seen, is regarded by 
-Critical Realism as also equivalent to ‘ meaning ’), con-
-cludes that data are in their nature “not existences 
-but universals, the bare natures of the objects, in such 
-wise that the essence embodied and the essence given 
-may be the same.” 
+ledge of the physical world It is a knowledge through asserted  identity of content, whereas knowledge of the 'physical world  IS information about data Thus when I mterpret an expression  on the face of my friend as meaning amusement I use the ex-
+pression as a symbol of an experience which I regard as in its  essentials the same for him as for me " (p 217).  
+Finally Professor Strong who examines the nature  of the ‘datum,’ which he replaces by Santayana’s  ‘ essence ’ (which, as we have seen, is regarded by  Critical Realism as also equivalent to ‘ meaning ’), con-
+cludes that data are in their nature “not existences  but universals, the bare natures of the objects, in such  wise that the essence embodied and the essence given  may be the same.”  
 
 
-
-THE MEANING OF PHILOSOPHERS 169 
-
-“ What is given to us in senseperception,” we learn 
-(p. 235), “ is the sensation as a meaning, or to speak 
-more correctly what is given is the meaning and not 
-the sensation .... That this significance, or meaning, 
-or essence is not an existence and not in time and space, 
-but, like the meaning when we think of a universal, 
-a purely logical entity, is quite credible ”; moreover, 
-the datum “ is not properly a sensible fact. We cannot 
-actually find it as a feeling, we can only tend towards 
-it or MEAN it. . . . A meaning here is not to be 
-understood as a peculiar kind of feeling, but as a 
-function which the feeling discharges ” (p. 237). 
-
-We need not here attempt to correlate these different 
-uses of the term in what claims to be the last achieve-
-ment of coordinated symbolization. As might have 
-been expected this statement with its challenge to Neo 
-Realists, Pragmatists, and Idealists aroused abundant 
-controversy, but the one inevitable source of mis-
-understanding and disagreement, the omnipresence of 
-the term Meaning, was allowed to pass unchallenged. 
-It seems to have been accepted without question into 
-the vocabulary of American philosophy, for use on all 
-occasions of uncertainty,* though to the English reader 
-it still happily sounds strange in most of its typical 
-contexts. 
-
+THE MEANING OF PHILOSOPHERS 169  
+“ What is given to us in senseperception,” we learn  (p. 235), “ is the sensation as a meaning, or to speak  more correctly what is given is the meaning and not  the sensation .... That this significance, or meaning,  or essence is not an existence and not in time and space,  but, like the meaning when we think of a universal,  a purely logical entity, is quite credible ”; moreover,  the datum “ is not properly a sensible fact. We cannot  actually find it as a feeling, we can only tend towards  it or MEAN it. A meaning here is not to be  understood as a peculiar kind of feeling, but as a  function which the feeling discharges ” (p. 237).  
+We need not here attempt to correlate these different  uses of the term in what claims to be the last achieve-
+ment of coordinated symbolization. As might have  been expected this statement with its challenge to Neo  Realists, Pragmatists, and Idealists aroused abundant  controversy, but the one inevitable source of mis-
+understanding and disagreement, the omnipresence of  the term Meaning, was allowed to pass unchallenged.  It seems to have been accepted without question into  the vocabulary of American philosophy, for use on all  occasions of uncertainty,* though to the English reader  it still happily sounds strange in most of its typical  contexts.  
 But lest the uninitiated should suppose that Meta-
-physicians and Critical Realists are peculiar in their 
-method, we may turn to the use made of the word by a 
-psychologist. For over twenty years the writings of 
-Professor Hugo Munsterberg exercised a powerful in-
-fluence on thought in England and in Germany, no less 
-than in America. His Eternal Values (igog) appeared 
-first in German and then in an improved and revised 
-form in English. It claims to be carefully and system 
-
-* Tbe treatment of the term * meaning ’ by Professor Sellars in his 
-mdependent volumes, Cntual Realism (1916) and Evolutionary 
-Naturalism (1921), is exemplified by the following dictum in the former 
-
-S ) 282) *' As a MXAKiNG, knowledge precedes truth, which is a re 
-
-ective deepemng of the sense of knowledge m the light of au awakened 
-doubt." 
-
-
-
-THE MEANING OF MEANING 
-
-
-170 
-
-atically written, a protest against the impressionistic 
-American style of philosophizing, much of which “has 
-become antagonistic to the real character of philosophy.” 
-Already in his Preface he assures us that sincere con-
-viction gave the real aim and meaning to his work. 
-On his first page his way of admitting that tastes may 
-differ is to say that “the beauties of one school may 
-MEAN ugliness to another ” ; on his second the words 
-“To profess idealism never means to prove it right” 
-indicate that asseveration and proof are not the same ; 
-on his third he informs us that “the world longs for a 
-new expression of the meaning of life and reality.” 
-On page 4 we read that for the sciences to urge criticism 
-of their foundations “means that they ask about the real 
-value of truth” ; that in practical affairs “the meaning 
-of life IS in danger” ; that we need “a new philosophy 
-which may give meaning to life and reality.” Page 5 
-
-" The MEANING of what is valuable must decide our view of 
-the world.” 
-
-"Philosophy needs to understand what the fundamental 
-MEANING of any valuation is " 
-
-"The philosopher keeps for his own inquiry what the real 
-MEANING of special facts may be, and what it means to have 
-knowledge of fee world at all " 
-
-Part I is entitled ‘The Meaning of Values’ and on 
-the SIX pages 7479 which reveal “the deciding fact” 
-the term ‘ meaning ’ appears no less than sixteen times. 
-The deciding fact is that we demand that things recur. 
-“We demand that there be a world ; that means that 
-our experience be more than just passing experience. 
-Here is the original deed which gives eternal meaning 
-to our reality ” (p. 75). The world becomes a world 
-by Its identical recurrence, and this identity means 
-fulfilment, means satisfaction, means value” (p. 79). 
-
-In passing it may be noted that identity does not 
-exclude change, for it is postulated that whatever 
-changes “ must still present an identity in its changes 
-by showing that the change belongs to its own 
-
-
-
-THE MEANING OF PHILOSOPHERS 171 
-
-MEANING.” Indeed “our question as to the validity 
-of pure values can have no other meaning except in 
-reference to this true world,” the world “of our experi-
-ences in so far as they assert themselves;” and “it 
-would be MEANINGLESS to deny the question. 
-
-To complete the argument with this accommodating 
-linguistic material, it would seem that since its identical 
-recurrence presumably is the ‘ meaning ’ of anything, 
-and since the ‘ meaning ’ of anything is presumably its 
-value, the statement above that “ identical recurrence 
-means value ” might equally well have appeared in the 
-form MEANING MEANS MEANING. 
-
-So stated it may lose in force what it gains in 
-clarity, but so stated it suggests that we may pass 
-rapidly to the final chapter in which the celebrated 
-psychologist sums up his ultimate theory of value, 
-merely noting from the intervening pages such dicta as 
-the following: 
-
-"The will of Napoleon, if we want to understand it in its 
-historical meaning, does not come to us as an object The act 
-IS completely grasped when it is understood in the meaning of 
-its attitude If Napoleon’s will is completely understood in its 
-MEANING, there remains nothing to be understood by other 
-inquiries " (p 144), 
-
-which explains the meaning of History. 
-
-"The world m its overpersonal meaning is absolutely 
-valuable by the fact that the glow of happiness illuminates 
-human souls ’’ (p 202), 
-
-which explains the meaning of Happiness. 
-
-"The real has its meaning in the expectation which it 
-awakens," 
-
-which explains the meaning of Reality. 
-
-"The inner agreement of our desires finally gives to our life 
-Its perfect meaning . . The tones to which our life gives 
-MEANING express a will which asserts itself " (p 253), 
-
-which explains the meaning both of Life and Music. 
-
-Finally then we proceed to the message of the final 
-chapter which deals with the values of Absoluteness. 
-In this chapter, covering fortysix pages, the word 
-
-
-
-THE MEANING OF MEANING 
-
-
-172 
-
-‘ meaning ’ occurs no less than fiftyeight times. As 
-the climax approaches (“We now stand before a new 
-ultimate value, the absolute of philosophy, the funda-
-mentally absolute which bears all reality in itself,” p. 39), 
-the keyword stands out in almost every sentence. 
-At page 400 “we can already take a wide outlook.” 
-If our will towards identification is satisfied “ it cannot 
-have any possible meaning to ask further as to the 
-value of the world." 
-
-" Our whole experience now gains its unity, its rest, its final 
-MEANING The MEANING Of the value enters into connection 
-
-with the overexperience of the overself . Here for the last 
-tune we might separate outerworld, fellowworld, and inner 
-world, and examine for each realm how it enlarges its meaning 
-in the relation to the overreality An inquiry into the 
-
-' stuff ’ of the world can have a meaning only when there are 
-sufficient stufis which can be discriminated When everything is 
-equally will it cannot have any meaning to find out what this 
-will really is . .To reach a goal means that the will maintains 
-Its object in a new form . The meaning of the world is an 
-aiming towards a greater abundance of aiming which yet remains 
-identical with itself ... In the deed itself the notyet and the 
-nolonger are one Their temporal, mutual relation gives unity 
-and MEANING to the deed ” 
-
-Ten pages later (p. 416) it is still going on : 
-
-" Only when we view mankind in this metaphysical connection 
-do we recognize the ultimate meaning of its inexhaustible activity 
-. When the meaning of the social work towards values be-
-comes metaphysically deepened, at the same time the counterwill 
-which foolishly destroys values must be sliarpened in its contrast 
-The worldwill which gives meaning to reality is a principle 
-annulled by the conscious denial of values, suddenly everything 
-has become meaningless Each of us is a member of man-
-
-kind, and the meaning of our single self then lies m the part 
-which we take in the upbuilding of the values. . We will 
-indicate once more the purest meaning of our view of the world 
-We have come to understand how the world and mankind and 
-the self are embedded in the deed of the overself for eternity. 
-For eternity 1 We have reached the highest point from which the 
-MEANING of eternity unveils itself In the deed therefore 
-
-past and future are one and that alone is the meaning of eternity 
-. . . Every new stage realizes the ultimate meaning of the pre-
-ceding stages But just that meant to us progress Deed 
-
-
-
-THE MEANING OF PHILOSOPHERS 173 
-
-MEANS fulfilment and completion. . . From here we understand 
-the task and the meaning of our individual selfhood . . Our 
-life has MEANING and purpose Banished is the anxiety that the 
-overreality may be meaningless ... It would be meaning-
-less to hope for more from life than such a fulfilment of the 
-overwill. . . . The mere desire for pleasure cannot possibly be 
-the goal of our life if it is to mamtain meaning and value at all 
-... A mere skippmg and a mere sudden transition from one 
-state to another would never have meaning. . . To unfold 
-
-his own will means for every one to help the upbuildmg of the 
-same common world.” 
-
-And so, on the next page (430), the last of the book, 
-we conclude with the assurance that “To progress in 
-the sense of the selfassertion of the will in will 
-enhancement remains for mankind, too, the ultimate 
-MEANING of duty.” 
-
-A study of these extracts in the German version of 
-Miinsterberg’s work is an interesting exercise in com-
-parative linguistic, and the contribution of the term 
-‘ meaning ’ to the cogency of the argument is consider-
-able. There may be those who find it hard to believe 
-that any writer responsible for such a verbal exploit 
-could also enjoy a reputation as a thinker of the first 
-rank. There is, however, another ambitious modern 
-attempt by an American theorist to deal specifically 
-with the fundamentals of psychology; and in the 
-preface to this work ^ we find a reference to Munster 
-berg’s “illuminating work on the great problems of 
-philosophy and of natural and mental science. . . . 
-It may be truthfully said that in his death America has 
-lost its one great theoretical psychologist.” Professor 
-Moore has no occasion to quote largely from the par-
-ticular work selected above, but his extracts (pp. 107 
-I lo) from Munsterberg’s Psychology General and Applied^ 
-and Psychotherapy are equally bespattered with the term. 
-And as might be expected Professor Moore’s own 
-treatment is also vitiated at its most crucial points by 
-his too hospitable attitude to this plausible nomad. 
-
-^ Tht Foundations of Psychology, by Jared Sparks Moore, 1921. 
-
-
-
-174 
-
-
-THE MEANING OF MEANING 
-
-
-To understand the nature of psychology as a science 
-we must, he holds, carefully distinguish Science from 
-Metaphysics, and “the keyword of the problem of 
-metaphysics is Interpretation. To interpret anything is 
-to determine its meaning. If the fundamental pre-
-supposition of all science is that every fact has a cause ; 
-the fundamental presupposition of metaphysics is that 
-every fact has a meaning” (p. 97). In other words, in 
-philosophy as opposed to science, ‘ ‘ each fact is treated 
-not as the effect of some antecedent cause, but as the 
-expression of a Meaning.” Science must precede 
-metaphysics“ We cannot know what facts mean until 
-we know what the facts are, we cannot interpret the 
-facts until we have described them,” 
-
-But, objects the critic (p. 100), “is it not true that 
-the very essence of a mental process is its meaning?” 
-No. Titchener has given six good reasons why mental 
-processes are “not intrinsically meaningful” (p. loi). 
-But, the critic insists (p. 102), Do not all our experiences 
-“ in their inmost nature mean something. Do we ever 
-experience a ‘meaningless’ sensation?” We have 
-no reason, the reply runs, to believe that the mind 
-“began with meaningless sensations, and progressed 
-to meaningful perceptions. On the contrary we must 
-suppose that the mind was meaningful from the very 
-outset.” 
-
-And here we pause at the very pertinent question : 
-“ What then from the psychological point of view is 
-this MEANING?” The answer is given without hesita-
-tion and in italics“ From the psychological point of 
-view, MEANING IS context." To explain: In every per-
-ception, or group of sensations and images, “the 
-associated images form as it were a context or ‘ fringe ’ 
-which binds together the whole and gives it a definite 
-MEANING,” and it is this “fringe of meaning that 
-makes the sensations not ‘ mere ’ sensations but 
-symbols of a physical object.” So when we see an 
-orange it is the contextual images of smell and taste 
-
-
-
-THE MEANING OF PHILOSOPHERS 175 
-
-“which enable us to ‘recognize’ the object i.e., give 
-a MEANING to the sensations ” of colour and brightness. 
-Similarly (p, 103) “every idea has a core or nucleus of 
-images, and a fringe of associated images . . . which 
-give MEANING to the nuclear images.” 
-
-To sum up: 
-
-“ In all these cases, the meaning of the perception 
-or idea is ‘ carried ’ by the contextual images or sensa-
-tions, and it is context which gives meaning to every 
-experience, and yet it would be inaccurate to say that 
-the MEANING of a sensation or symbolic image is 
-through and through nothing but its associated images 
-or sensations, for this would be a violation of the 
-principle that psychology is not concerned with 
-MEANINGS. All that is implied is that the meanings of 
-our experiences are represented in the realm of mental 
-processes by ‘ the fringe of related processes that 
-gathers about the central group 'of sensations or 
-images.’ Psychologically meaning is context, but 
-logically and metaphysically meaning is much more 
-than psychological context; or, to put it the other way 
-round, whatever meaning may be, psychology is 
-concerned with it only so far as it can be represented 
-in terms of contextual imagery ” (p. 103). 
-
-It is a curious approach to the problems of sign 
-interpretation,‘this account of Meaning which (psycho-
-logically) ts context, which is earned by context, which 
-is much more than context, which is expressed by facts, 
-with which psychology ts not concerned and yet ts con-
-cerned, so far as it can be represented by contextual 
-imagery. 1 
-
-* In a letter pnnted by Mind (April 1924), but unfortunately marred 
-by four lapsus calami (' nuclear image' for nuclear images, ' 102 ’ for 
-103. ' 193 'Jor 293. and ' 541 ’ for 544) Professor Moore, after drawing 
-attention to three typist’s errors in the above (now corrected) complains 
-that this paragraph " makes chaos of my whole position by ridiculing 
-my account ” of Meamng Says he " My whole point is that Meaning 
-IS ‘ much more than context ’ though ‘ carried ’ or ' represented ' in 
-the mind by context, and that for this reason, ‘ psychology is not 
-concerned with Meamng, but only with its representatives in the mind ’ " 
-lie adds " I nowhere say that Meaning ‘ is context,' or that psychology 
-
-
-
-176 THE MEANING OF MEANING 
-
-But there are stranger things to follow, for here 
-True Meaning makes its appearancein connection 
-with a bell. “The true meaning of the percept of the 
-bell is its reference to the real objective bell,” and this 
-reference is represented in the mind by contextual 
-images which “constitute its meaning ‘ translated into 
-the language of’ psychology. So the true meaning of 
-an idea lies in its logical reference to an objective 
-system of ideas” (p. 104); and a little later (p. in) we 
-find that “all experiences are expressions of the inner 
-MEANINGS of the self.” 
-
-It is hard to believe that Professor Moore would 
-have been satisfied with such a vocabulary had he 
-attempted to investigate the psychology of signs and 
-symbols ; and this investigation could not but have 
-shown him how much of his present work had its 
-origin in an unfortunate choice of, and attitude towards, 
-symbols. As it is, the constant appeal to an esoteric 
-Doctrine of Meaning is reminiscent of the dialectical 
-devices of mediaeval theologians, and we may conclude 
-by noting that the Doctrine is specifically invoked in 
-relation to Religion. 
-
-Psychology may discuss as freely the mental processes m 
-volved m religious expenence as it does those concerned m our 
-experience of physical thmgs, but m neither ceise can its decisions 
-affect the question of the meaning of those experiences. 
-The question of the nature of the processes undergone by the 
-human mind in any spheres of activity is a question of fact, 
-caUmg for analytical description and explanation m cansal terms: 
-the problem of the vahdity or truthvalue of these processes is a 
-question of meaning, callmg for mteipretation " (p 122). 
-
-For those who regard interpretation as a purely 
-causal process, and consider that when the meaning of 
-anything is interpreted it is but explained in causal 
-terms (while at the same time recognizing a totally 
-
-' IS concerned * with Meaning itself " Out whole point is that Professor 
-Moore constantly shifts his uses of meaning without elucidating any 
-of them We were not concerned to discuss his view but to exhibit his 
-linguistic techmque, and we are glad to notice that the sentences quoted 
-from his letter supplement the exhibit 
-
-
-
-THE MEANING OF PHILOSOPHERS 177 
-
-distinct sense of meaning in which the ‘meaning’ of a 
-poem or a religion would be the emotion or attitude 
-evoked through it), the extent to which this symbol 
-can change places with its other selves should provide 
-material for reflection. 
-
-Our object here, however, is rather to provide 
-instances of its use in current constructive and contro-
-versial literature, and it remains only to group together 
-a few further typical examples. 
-
-“Strictly,” says Professor Broad, “a thing has 
-MEANING when acquaintance with or knowledge about 
-it either enables one to infer or causes one by associa-
-tion to think of something else.”^ But so ‘strict’an 
-account has not always found favour with philosophical 
-writers. “We may, for convenience sake,” explains 
-Professor Nettleship,* “mentally hold apart a certain 
-fraction of the fact, for instance, the minimum of 
-MEANING which justifies us in using the word triangu-
+physicians and Critical Realists are peculiar in their  method, we may turn to the use made of the word by a  psychologist. For over twenty years the writings of  Professor Hugo Munsterberg exercised a powerful in-
+fluence on thought in England and in Germany, no less  than in America. His Eternal Values (igog) appeared  first in German and then in an improved and revised  form in English. It claims to be carefully and system  
+* Tbe treatment of the term * meaning ’ by Professor Sellars in his  mdependent volumes, Cntual Realism (1916) and Evolutionary  Naturalism (1921), is exemplified by the following dictum in the former  
+S ) 282) *' As a MXAKiNG, knowledge precedes truth, which is a re  
+ective deepemng of the sense of knowledge m the light of au awakened  doubt."  
+
+
+THE MEANING OF MEANING  
+
+170  
+atically written, a protest against the impressionistic  American style of philosophizing, much of which “has  become antagonistic to the real character of philosophy.”  Already in his Preface he assures us that sincere con-
+viction gave the real aim and meaning to his work.  On his first page his way of admitting that tastes may  differ is to say that “the beauties of one school may  MEAN ugliness to another ” ; on his second the words  “To profess idealism never means to prove it right”  indicate that asseveration and proof are not the same ;  on his third he informs us that “the world longs for a  new expression of the meaning of life and reality.”  On page 4 we read that for the sciences to urge criticism  of their foundations “means that they ask about the real  value of truth” ; that in practical affairs “the meaning  of life IS in danger” ; that we need “a new philosophy  which may give meaning to life and reality.” Page 5  
+" The MEANING of what is valuable must decide our view of  the world.”  
+"Philosophy needs to understand what the fundamental  MEANING of any valuation is "  
+"The philosopher keeps for his own inquiry what the real  MEANING of special facts may be, and what it means to have  knowledge of fee world at all "  
+Part I is entitled ‘The Meaning of Values’ and on  the SIX pages 7479 which reveal “the deciding fact”  the term ‘ meaning ’ appears no less than sixteen times.  The deciding fact is that we demand that things recur.  “We demand that there be a world ; that means that  our experience be more than just passing experience.  Here is the original deed which gives eternal meaning  to our reality ” (p. 75). The world becomes a world  by Its identical recurrence, and this identity means  fulfilment, means satisfaction, means value” (p. 79).  
+In passing it may be noted that identity does not  exclude change, for it is postulated that whatever  changes “ must still present an identity in its changes  by showing that the change belongs to its own  
+
+
+THE MEANING OF PHILOSOPHERS 171  
+MEANING.” Indeed “our question as to the validity  of pure values can have no other meaning except in  reference to this true world,” the world “of our experi-
+ences in so far as they assert themselves;” and “it  would be MEANINGLESS to deny the question.  
+To complete the argument with this accommodating  linguistic material, it would seem that since its identical  recurrence presumably is the ‘ meaning ’ of anything,  and since the ‘ meaning ’ of anything is presumably its  value, the statement above that “ identical recurrence  means value ” might equally well have appeared in the  form MEANING MEANS MEANING.  
+So stated it may lose in force what it gains in  clarity, but so stated it suggests that we may pass  rapidly to the final chapter in which the celebrated  psychologist sums up his ultimate theory of value,  merely noting from the intervening pages such dicta as  the following:  
+"The will of Napoleon, if we want to understand it in its  historical meaning, does not come to us as an object The act  IS completely grasped when it is understood in the meaning of  its attitude If Napoleon’s will is completely understood in its  MEANING, there remains nothing to be understood by other  inquiries " (p 144),  
+which explains the meaning of History.  
+"The world m its overpersonal meaning is absolutely  valuable by the fact that the glow of happiness illuminates  human souls ’’ (p 202),  
+which explains the meaning of Happiness.  
+"The real has its meaning in the expectation which it  awakens,"  
+which explains the meaning of Reality.  
+"The inner agreement of our desires finally gives to our life  Its perfect meaning . The tones to which our life gives  MEANING express a will which asserts itself " (p 253),  
+which explains the meaning both of Life and Music.  
+Finally then we proceed to the message of the final  chapter which deals with the values of Absoluteness.  In this chapter, covering fortysix pages, the word  
+
+
+THE MEANING OF MEANING  
+
+172  
+‘ meaning ’ occurs no less than fiftyeight times. As  the climax approaches (“We now stand before a new  ultimate value, the absolute of philosophy, the funda-
+mentally absolute which bears all reality in itself,” p. 39),  the keyword stands out in almost every sentence.  At page 400 “we can already take a wide outlook.”  If our will towards identification is satisfied “ it cannot  have any possible meaning to ask further as to the  value of the world."  
+" Our whole experience now gains its unity, its rest, its final  MEANING The MEANING Of the value enters into connection  
+with the overexperience of the overself . Here for the last  tune we might separate outerworld, fellowworld, and inner  world, and examine for each realm how it enlarges its meaning  in the relation to the overreality An inquiry into the  
+' stuff ’ of the world can have a meaning only when there are  sufficient stufis which can be discriminated When everything is  equally will it cannot have any meaning to find out what this  will really is .To reach a goal means that the will maintains  Its object in a new form . The meaning of the world is an  aiming towards a greater abundance of aiming which yet remains  identical with itself ... In the deed itself the notyet and the  nolonger are one Their temporal, mutual relation gives unity  and MEANING to the deed ”  
+Ten pages later (p. 416) it is still going on :  
+" Only when we view mankind in this metaphysical connection  do we recognize the ultimate meaning of its inexhaustible activity  . When the meaning of the social work towards values be-
+comes metaphysically deepened, at the same time the counterwill  which foolishly destroys values must be sliarpened in its contrast  The worldwill which gives meaning to reality is a principle  annulled by the conscious denial of values, suddenly everything  has become meaningless Each of us is a member of man-
+
+kind, and the meaning of our single self then lies m the part  which we take in the upbuilding of the values. We will  indicate once more the purest meaning of our view of the world  We have come to understand how the world and mankind and  the self are embedded in the deed of the overself for eternity.  For eternity 1 We have reached the highest point from which the  MEANING of eternity unveils itself In the deed therefore  
+past and future are one and that alone is the meaning of eternity  . . Every new stage realizes the ultimate meaning of the pre-
+ceding stages But just that meant to us progress Deed  
+
+
+THE MEANING OF PHILOSOPHERS 173  
+MEANS fulfilment and completion. . From here we understand  the task and the meaning of our individual selfhood . Our  life has MEANING and purpose Banished is the anxiety that the  overreality may be meaningless ... It would be meaning-
+less to hope for more from life than such a fulfilment of the  overwill. The mere desire for pleasure cannot possibly be  the goal of our life if it is to mamtain meaning and value at all  ... A mere skippmg and a mere sudden transition from one  state to another would never have meaning. . To unfold  
+his own will means for every one to help the upbuildmg of the  same common world.”  
+And so, on the next page (430), the last of the book,  we conclude with the assurance that “To progress in  the sense of the selfassertion of the will in will  enhancement remains for mankind, too, the ultimate  MEANING of duty.”  
+A study of these extracts in the German version of  Miinsterberg’s work is an interesting exercise in com-
+parative linguistic, and the contribution of the term  ‘ meaning ’ to the cogency of the argument is consider-
+able. There may be those who find it hard to believe  that any writer responsible for such a verbal exploit  could also enjoy a reputation as a thinker of the first  rank. There is, however, another ambitious modern  attempt by an American theorist to deal specifically  with the fundamentals of psychology; and in the  preface to this work ^ we find a reference to Munster  berg’s “illuminating work on the great problems of  philosophy and of natural and mental science.  It may be truthfully said that in his death America has  lost its one great theoretical psychologist.” Professor  Moore has no occasion to quote largely from the par-
+ticular work selected above, but his extracts (pp. 107  I lo) from Munsterberg’s Psychology General and Applied^  and Psychotherapy are equally bespattered with the term.  And as might be expected Professor Moore’s own  treatment is also vitiated at its most crucial points by  his too hospitable attitude to this plausible nomad.  
+^ Tht Foundations of Psychology, by Jared Sparks Moore, 1921.  
+
+
+174  
+
+THE MEANING OF MEANING  
+
+To understand the nature of psychology as a science  we must, he holds, carefully distinguish Science from  Metaphysics, and “the keyword of the problem of  metaphysics is Interpretation. To interpret anything is  to determine its meaning. If the fundamental pre-
+supposition of all science is that every fact has a cause ;  the fundamental presupposition of metaphysics is that  every fact has a meaning” (p. 97). In other words, in  philosophy as opposed to science, ‘ ‘ each fact is treated  not as the effect of some antecedent cause, but as the  expression of a Meaning.” Science must precede  metaphysics“ We cannot know what facts mean until  we know what the facts are, we cannot interpret the  facts until we have described them,”  
+But, objects the critic (p. 100), “is it not true that  the very essence of a mental process is its meaning?”  No. Titchener has given six good reasons why mental  processes are “not intrinsically meaningful” (p. loi).  But, the critic insists (p. 102), Do not all our experiences  “ in their inmost nature mean something. Do we ever  experience a ‘meaningless’ sensation?” We have  no reason, the reply runs, to believe that the mind  “began with meaningless sensations, and progressed  to meaningful perceptions. On the contrary we must  suppose that the mind was meaningful from the very  outset.”  
+And here we pause at the very pertinent question :  “ What then from the psychological point of view is  this MEANING?” The answer is given without hesita-
+tion and in italics“ From the psychological point of  view, MEANING IS context." To explain: In every per-
+ception, or group of sensations and images, “the  associated images form as it were a context or ‘ fringe ’  which binds together the whole and gives it a definite  MEANING,” and it is this “fringe of meaning that  makes the sensations not ‘ mere ’ sensations but  symbols of a physical object.” So when we see an  orange it is the contextual images of smell and taste  
+
+
+THE MEANING OF PHILOSOPHERS 175  
+“which enable us to ‘recognize’ the object i.e., give  a MEANING to the sensations ” of colour and brightness.  Similarly (p, 103) “every idea has a core or nucleus of  images, and a fringe of associated images . . which  give MEANING to the nuclear images.”  
+To sum up:  
+“ In all these cases, the meaning of the perception  or idea is ‘ carried ’ by the contextual images or sensa-
+tions, and it is context which gives meaning to every  experience, and yet it would be inaccurate to say that  the MEANING of a sensation or symbolic image is  through and through nothing but its associated images  or sensations, for this would be a violation of the  principle that psychology is not concerned with  MEANINGS. All that is implied is that the meanings of  our experiences are represented in the realm of mental  processes by ‘ the fringe of related processes that  gathers about the central group 'of sensations or  images.’ Psychologically meaning is context, but  logically and metaphysically meaning is much more  than psychological context; or, to put it the other way  round, whatever meaning may be, psychology is  concerned with it only so far as it can be represented  in terms of contextual imagery ” (p. 103).  
+It is a curious approach to the problems of sign  interpretation,‘this account of Meaning which (psycho-
+logically) ts context, which is earned by context, which  is much more than context, which is expressed by facts,  with which psychology ts not concerned and yet ts con-
+cerned, so far as it can be represented by contextual  imagery. 1  
+* In a letter pnnted by Mind (April 1924), but unfortunately marred  by four lapsus calami (' nuclear image' for nuclear images, ' 102 ’ for  103. ' 193 'Jor 293. and ' 541 ’ for 544) Professor Moore, after drawing  attention to three typist’s errors in the above (now corrected) complains  that this paragraph " makes chaos of my whole position by ridiculing  my account ” of Meamng Says he " My whole point is that Meaning  IS ‘ much more than context ’ though ‘ carried ’ or ' represented ' in  the mind by context, and that for this reason, ‘ psychology is not  concerned with Meamng, but only with its representatives in the mind ’ "  lie adds " I nowhere say that Meaning ‘ is context,' or that psychology  
+
+
+176 THE MEANING OF MEANING  
+But there are stranger things to follow, for here  True Meaning makes its appearancein connection  with a bell. “The true meaning of the percept of the  bell is its reference to the real objective bell,” and this  reference is represented in the mind by contextual  images which “constitute its meaning ‘ translated into  the language of’ psychology. So the true meaning of  an idea lies in its logical reference to an objective  system of ideas” (p. 104); and a little later (p. in) we  find that “all experiences are expressions of the inner  MEANINGS of the self.”  
+It is hard to believe that Professor Moore would  have been satisfied with such a vocabulary had he  attempted to investigate the psychology of signs and  symbols ; and this investigation could not but have  shown him how much of his present work had its  origin in an unfortunate choice of, and attitude towards,  symbols. As it is, the constant appeal to an esoteric  Doctrine of Meaning is reminiscent of the dialectical  devices of mediaeval theologians, and we may conclude  by noting that the Doctrine is specifically invoked in  relation to Religion.  
+Psychology may discuss as freely the mental processes m  volved m religious expenence as it does those concerned m our  experience of physical thmgs, but m neither ceise can its decisions  affect the question of the meaning of those experiences.  The question of the nature of the processes undergone by the  human mind in any spheres of activity is a question of fact,  caUmg for analytical description and explanation m cansal terms:  the problem of the vahdity or truthvalue of these processes is a  question of meaning, callmg for mteipretation " (p 122).  
+For those who regard interpretation as a purely  causal process, and consider that when the meaning of  anything is interpreted it is but explained in causal  terms (while at the same time recognizing a totally  
+' IS concerned * with Meaning itself " Out whole point is that Professor  Moore constantly shifts his uses of meaning without elucidating any  of them We were not concerned to discuss his view but to exhibit his  linguistic techmque, and we are glad to notice that the sentences quoted  from his letter supplement the exhibit  
+
+
+THE MEANING OF PHILOSOPHERS 177  
+distinct sense of meaning in which the ‘meaning’ of a  poem or a religion would be the emotion or attitude  evoked through it), the extent to which this symbol  can change places with its other selves should provide  material for reflection.  
+Our object here, however, is rather to provide  instances of its use in current constructive and contro-
+versial literature, and it remains only to group together  a few further typical examples.  
+“Strictly,” says Professor Broad, “a thing has  MEANING when acquaintance with or knowledge about  it either enables one to infer or causes one by associa-
+tion to think of something else.”^ But so ‘strict’an  account has not always found favour with philosophical  writers. “We may, for convenience sake,” explains  Professor Nettleship,* “mentally hold apart a certain  fraction of the fact, for instance, the minimum of  MEANING which justifies us in using the word triangu-
 larity”while Lord Haldane* can write, “The per-
-cipient is an object in his universe, but it is still the 
-universe including himself that there is for him, and 
-for its MEANING it implies the presence of mind.” And 
-here are some of the propositions advanced by so 
-influential a thinker as Professor Royce ; * 
-
-“The melody sung, the artist’s idea, the thought of your 
-absent fnends all these not merely have their obvious internal 
-MEANING as meetmg a conscions purpose by their very presence, 
-but also they at least appear to have that other sort of meaning, 
-
-‘ Perception, Physics and Reality, 1914. p 97 In reviewing J EUis 
-McTaggart's " The Nature of Existence ’’ m The Hibbert Journal 
-(1921, p 173) Dr Broad notes that " McTaggart seems to have taken 
-over without question from Russell's Principles of Mathematics, the 
-doctrine that an mfimte regress is vicious when, and only when, it 
-concerns the ‘ meaning ' 01 some concept " According to Rus^l 
-(Mind, 1920, p 401), " MEANING IS an observable property of observable 
-entities " Professor John Laird goes further than this, and in his 
-opimon “ MEANING is directly perceptible just like sound and colour. 
-
-. Continuants are conveyed to us through the intrinsic meaning 
-of what we perceive mtermittently. . . The meaning directly 
-
-perceived m the filling of space and time has the seeds of causahty 
-in it " (A Study of Realism, pp 27, 29, 98 ) 
-
-’ R L Nettleship, Philosophical Remains, I , p 220. 
-
-* The Reign of Relativity, 1921, p 181 
-
-* The World and the Individual, pp 36, 176 
+cipient is an object in his universe, but it is still the  universe including himself that there is for him, and  for its MEANING it implies the presence of mind.” And  here are some of the propositions advanced by so  influential a thinker as Professor Royce ; *  
+“The melody sung, the artist’s idea, the thought of your  absent fnends all these not merely have their obvious internal  MEANING as meetmg a conscions purpose by their very presence,  but also they at least appear to have that other sort of meaning,  
+‘ Perception, Physics and Reality, 1914. p 97 In reviewing J EUis  McTaggart's " The Nature of Existence ’’ m The Hibbert Journal  (1921, p 173) Dr Broad notes that " McTaggart seems to have taken  over without question from Russell's Principles of Mathematics, the  doctrine that an mfimte regress is vicious when, and only when, it  concerns the ‘ meaning ' 01 some concept " According to Rus^l  (Mind, 1920, p 401), " MEANING IS an observable property of observable  entities " Professor John Laird goes further than this, and in his  opimon “ MEANING is directly perceptible just like sound and colour.  
+. Continuants are conveyed to us through the intrinsic meaning  of what we perceive mtermittently. . The meaning directly  
+perceived m the filling of space and time has the seeds of causahty  in it " (A Study of Realism, pp 27, 29, 98 )  
+’ R L Nettleship, Philosophical Remains, I , p 220.  
+* The Reign of Relativity, 1921, p 181  
+* The World and the Individual, pp 36, 176  
 
 
-
-178 THE MEANING OF MEANING 
-
-that reference beyond themselves to objects . . This external 
-MEANING, I say, appears to be very different from the mtemal 
-MEANING, and wholly to transcend the latter 
-
-"Just what the mtemal meaning of an idea already imperfectly 
-but consciously is, namely, purpose relatively fulfilled, just that 
-and nothing else the apparently external meaning when tmly 
-comprehended also proves to be, namely, the entire expression of 
-the very Will that is fragmentarily embodied m the hie of the 
-flying conscious idea To be means simply to express to 
-
-embody the complete internal meaning of a certam absolute 
-system of ideas, a system, moreover, which is genuinely implied 
-m the true internal meaning of every finite idea, however 
-fragmentary 
-
-" The mystic knows only Internal meanings, precisely as the 
-realist considers only External meanings " 
-
-“We have direct acquaintance with the ideas or 
-MEANINGS about which we have thoughts and which 
-we may be said to understand" declared the late Lord 
-Keynes ; and again, “ We are able to pass from direct 
-acquaintance with things to a knowledge of proposi-
-tions about the things of which we have sensations 
-or understand the meaning.”* So helpful a term is 
-equally in demand as a carminative in ecclesiastical 
-controversy,^ as a vade mecum in musical criticism,’ 
-as an indication of the precise point where doctors 
-differ,* and as a lubricant for the spinningwheel of 
-the absolute relativist.* “If education cannot be 
-
-I J M Keynes, A Treahse on Prohahxhty, Part 1 ., Fundamental 
-Ideas, pp 12, 13 
-
-* " This House recognizes the gam which arises from inquiry into 
-the MEANING and expression of the Failli."^Ibe Upper House of 
-Convocation, May and, 1922 
-
-* " Miss A's programme last mght became stimulating in virtue 
-of the abounding health and freshness of her outlook, conveyed through 
-an admirable techmque Probably Beethoven's Sonata in A, Op loi, 
-will reveal a deeper meaning to her m full maturity, but her present 
-readingwas eloquently truthful "The Morning Post, June 24th, 1922 
-
-* ■' The importance of symptoms is so imperfectly realized that 
-a description of the meaning, mechanism and sigmficance of symptoms 
-IS nowhere to be found, and this constitutes a great defect in medical 
-knowledge "Sir James Mackenzie, op cit, p 2 
-
-» " The concrete umveisal means that reality in the lull meaning 
-of the word is of the nature of the concept Umversolity means 
-
-that the whole is present in every part . . If theie be nothing 
-absolute in our objective universe, it follows that the absolute is within 
-us It IS not within, however, in any abstract meaning, any meaning 
-which would isolate the subject of experience from Its object . . Also 
+178 THE MEANING OF MEANING  
+that reference beyond themselves to objects . This external  MEANING, I say, appears to be very different from the mtemal  MEANING, and wholly to transcend the latter  
+"Just what the mtemal meaning of an idea already imperfectly  but consciously is, namely, purpose relatively fulfilled, just that  and nothing else the apparently external meaning when tmly  comprehended also proves to be, namely, the entire expression of  the very Will that is fragmentarily embodied m the hie of the  flying conscious idea To be means simply to express to  
+embody the complete internal meaning of a certam absolute  system of ideas, a system, moreover, which is genuinely implied  m the true internal meaning of every finite idea, however  fragmentary  
+" The mystic knows only Internal meanings, precisely as the  realist considers only External meanings "  
+“We have direct acquaintance with the ideas or  MEANINGS about which we have thoughts and which  we may be said to understand" declared the late Lord  Keynes ; and again, “ We are able to pass from direct  acquaintance with things to a knowledge of proposi-
+tions about the things of which we have sensations  or understand the meaning.”* So helpful a term is  equally in demand as a carminative in ecclesiastical  controversy,^ as a vade mecum in musical criticism,’  as an indication of the precise point where doctors  differ,* and as a lubricant for the spinningwheel of  the absolute relativist.* “If education cannot be  
+I J M Keynes, A Treahse on Prohahxhty, Part 1 ., Fundamental  Ideas, pp 12, 13  
+* " This House recognizes the gam which arises from inquiry into  the MEANING and expression of the Failli."^Ibe Upper House of  Convocation, May and, 1922  
+* " Miss A's programme last mght became stimulating in virtue  of the abounding health and freshness of her outlook, conveyed through  an admirable techmque Probably Beethoven's Sonata in A, Op loi,  will reveal a deeper meaning to her m full maturity, but her present  readingwas eloquently truthful "The Morning Post, June 24th, 1922  
+* ■' The importance of symptoms is so imperfectly realized that  a description of the meaning, mechanism and sigmficance of symptoms  IS nowhere to be found, and this constitutes a great defect in medical  knowledge "Sir James Mackenzie, op cit, p 2  
+» " The concrete umveisal means that reality in the lull meaning  of the word is of the nature of the concept Umversolity means  
+that the whole is present in every part . If theie be nothing  absolute in our objective universe, it follows that the absolute is within  us It IS not within, however, in any abstract meaning, any meaning  which would isolate the subject of experience from Its object . Also  
 
 
-
-THE MEANING OF PHILOSOPHERS 179 
-
-identified with mere instruction, what is it? What 
-does the term mean?” asks the educationist. “I 
-answer, it must mean a gradual adjustment to the 
-spiritual possession of the race.”' Meaning is there-
-fore just the sort of word with which we may attempt 
-to probe the obscure depths of the souls of fishes. 
-“ Let us fix attention on the state of the mind of tbt 
-goldfish. . . . Suddenly comes a new element Into 
-consciousnessthe conscious counterpart of the stimuli 
-of the eye caused by the bread falling into the water. . . . 
-The food is an object in space and time for the fish and 
-has its MEANING, but when the food is eaten both per-
-cept and MEANING disappear. . . , This is an instance 
-of percept and meaning tied.”* 
-
-Turning now to official Psychology, we have six 
-current Professorial utterances which invite com-
-parison : 
-
-"The Object of simple apprehension is whatever the mmd 
-MEANS or mtends to refer to 
-
-" The sight of the word sugar means its sweetness. 
-
+THE MEANING OF PHILOSOPHERS 179  
+identified with mere instruction, what is it? What  does the term mean?” asks the educationist. “I  answer, it must mean a gradual adjustment to the  spiritual possession of the race.”' Meaning is there-
+fore just the sort of word with which we may attempt  to probe the obscure depths of the souls of fishes.  “ Let us fix attention on the state of the mind of tbt  goldfish. Suddenly comes a new element Into  consciousnessthe conscious counterpart of the stimuli  of the eye caused by the bread falling into the water.  The food is an object in space and time for the fish and  has its MEANING, but when the food is eaten both per-
+cept and MEANING disappear. . , This is an instance  of percept and meaning tied.”*  
+Turning now to official Psychology, we have six  current Professorial utterances which invite com-
+parison :  
+"The Object of simple apprehension is whatever the mmd  MEANS or mtends to refer to  
+" The sight of the word sugar means its sweetness.  
 " The only general word which is at all appropriate for express-
-ing this kmd of consciousness is the word meaning " > 
-
-" All that is mtended is never given m the mental state The 
-mental content merely means what we are thmkmg about; it 
-does not reproduce it or constitute it " * 
-
+ing this kmd of consciousness is the word meaning " >  
+" All that is mtended is never given m the mental state The  mental content merely means what we are thmkmg about; it  does not reproduce it or constitute it " *  
 " Perceptions have meaning No sensation means, a sensa-
-tion simply goes on in various attributive ways, mtensely, 
-clearly, spatially, and so forth. All perceptions mean they go 
-on, also, m various attnbutive ways, but they go on mean-
-ingly." "An idea means another idea, is psj^ologically the 
-MEANING of that other idea, if it is that idea’s context." ‘ 
-
-"The afiectivevohtional meaning, or worth, of an object 
-becomes explicit only on the cognitive level It is the actualiza-
-tion of the dispositional tendency, either in feeling or desire, 
-
-there is preestablished harmony of the monads, if we impart to this new 
-term the old meaning "H Wildon Carr, A Theory of Monads 
-(1922) pp 299100 jiS 
-
-^ Nicholas Murray Butler, What ts Education ? (1906), p 17. 
-
-* W E Urwick, The Child's Mtnd (1907), p 68 
-
-’ Stout, Manual of Psychology, pp 104, 180, 183. 
-
-* PiUsbury, Fundamentals of Psychology, p 269 
-
-‘ Titchener, A Textbook of Psychology, p 367, and Experimental 
-Psychology of the ThoughtProcesses p 175 
+tion simply goes on in various attributive ways, mtensely,  clearly, spatially, and so forth. All perceptions mean they go  on, also, m various attnbutive ways, but they go on mean-
+ingly." "An idea means another idea, is psj^ologically the  MEANING of that other idea, if it is that idea’s context." ‘  
+"The afiectivevohtional meaning, or worth, of an object  becomes explicit only on the cognitive level It is the actualiza-
+tion of the dispositional tendency, either in feeling or desire,  
+there is preestablished harmony of the monads, if we impart to this new  term the old meaning "H Wildon Carr, A Theory of Monads  (1922) pp 299100 jiS  
+^ Nicholas Murray Butler, What ts Education ? (1906), p 17.  
+* W E Urwick, The Child's Mtnd (1907), p 68  
+’ Stout, Manual of Psychology, pp 104, 180, 183.  
+* PiUsbury, Fundamentals of Psychology, p 269  
+‘ Titchener, A Textbook of Psychology, p 367, and Experimental  Psychology of the ThoughtProcesses p 175  
 
 
-
-i8o THE MEANING OF MEANING 
-
-through these cognitive acts, which gives to the feeling or desue 
-that MEANING described as worth , . . What are the possible 
-MEANINGS of reahty as employed m reflective valuation, or what 
-IS the common logical cue of all these meanings ’’’ 
-
-" Meaning may be something meant, or it may bewell, ]ust 
-MEANING. . . If, then, MEANING, in my mterpretation, is jnst 
-
-part of a process itself, why does it so persistently elude onr most 
-patient search for it among the jnxtaposed or compounded 
-products of mental process ? 
-
-" Meaning is the essential part of a thought or a conscions 
-ness of an object . meaning has no immediate physiological 
-correlate m the biam that could serve as its substitute and dis-
-charge its functions."^ 
-
-As a specimen of the language of Psychoanalysts, 
-on the other hand, the following by the late Professor 
-J. J. Putnam ‘ of Harvard may be considered: 
-
-" It seems, and is, a small matter to walk in the country 
-without One's coat, but a similar msufficiency of costume, if 
-occumng m a dream, may be a circumstance of far wider mean-
-ing. . . It will be obvious from the foregomg that the term 
-
-‘ sexual' as defined in the pisychoanalytic vocabulary, is of far 
-wider meaning than is ordinarily conceived . . The next pomt 
-has reference to * sublimation' This ontcome of mdrvidnal 
-evolution, as defined by Freud, has a stnctly social meaning 
-
+i8o THE MEANING OF MEANING  
+through these cognitive acts, which gives to the feeling or desue  that MEANING described as worth , . What are the possible  MEANINGS of reahty as employed m reflective valuation, or what  IS the common logical cue of all these meanings ’’’  
+" Meaning may be something meant, or it may bewell, ]ust  MEANING. . If, then, MEANING, in my mterpretation, is jnst  
+part of a process itself, why does it so persistently elude onr most  patient search for it among the jnxtaposed or compounded  products of mental process ?  
+" Meaning is the essential part of a thought or a conscions  ness of an object . meaning has no immediate physiological  correlate m the biam that could serve as its substitute and dis-
+charge its functions."^  
+As a specimen of the language of Psychoanalysts,  on the other hand, the following by the late Professor  J. J. Putnam ‘ of Harvard may be considered:  
+" It seems, and is, a small matter to walk in the country  without One's coat, but a similar msufficiency of costume, if  occumng m a dream, may be a circumstance of far wider mean-
+ing. . It will be obvious from the foregomg that the term  
+‘ sexual' as defined in the pisychoanalytic vocabulary, is of far  wider meaning than is ordinarily conceived . The next pomt  has reference to * sublimation' This ontcome of mdrvidnal  evolution, as defined by Freud, has a stnctly social meaning  
 The logical end of a psychoanalytic treatment is the re-
-covery of a full sense of the bearings and meanings of one’s life. 
-
-A man’s sense of pnde of his family may be a symptom of 
-narcistic selfadulation, but like all other signs and symbols, 
-this IS a case where two opposing meanings meet ’. . ." 
-
-The Pragmatists made a bold attempt to simplify 
-the issue. “ That which is suggested is meaning,” 
-wrote Professor Miller,* and Professor Bawden * is 
-equally simple“ Feeling is the vague appreciation 
-of the value of a situation, while cognition is a clear 
-and distinct perception of its meaning.” The trouble 
-begins, however, with the first attempts at elaboration. 
-
-^ Urban, Valuation, pp 95, 387. 
-
-* Lloyd Morgan, Instinct and Experience, pp itj, 278, 
-
-* W McDougall, Body and Mind, pp. 304, 311 
-
-* Addresses on Psychoanalysts, 1921, pp. 146, 151, 306. 
-
-* I Miller, The Psychology of Thinking, 1909, p 154 
-
-* H Heath Bawden, The Principles of Pragmatism, p. 131. 
+covery of a full sense of the bearings and meanings of one’s life.  
+A man’s sense of pnde of his family may be a symptom of  narcistic selfadulation, but like all other signs and symbols,  this IS a case where two opposing meanings meet ’. ."  
+The Pragmatists made a bold attempt to simplify  the issue. “ That which is suggested is meaning,”  wrote Professor Miller,* and Professor Bawden * is  equally simple“ Feeling is the vague appreciation  of the value of a situation, while cognition is a clear  and distinct perception of its meaning.” The trouble  begins, however, with the first attempts at elaboration.  
+^ Urban, Valuation, pp 95, 387.  
+* Lloyd Morgan, Instinct and Experience, pp itj, 278,  
+* W McDougall, Body and Mind, pp. 304, 311  
+* Addresses on Psychoanalysts, 1921, pp. 146, 151, 306.  
+* I Miller, The Psychology of Thinking, 1909, p 154  
+* H Heath Bawden, The Principles of Pragmatism, p. 131.  
 
 
-
-THE MEANING OF PHILOSOPHERS i8i 
-
-“An experience is cogntiional," says Professor Dewey* 
-“which is contemporaneously aware of meaning some-
-thing beyond itself. Both the meaning and the thing 
-MEANT are elements in the same situation. . . . One 
-is present as notpresentinthesamewayinwhichthe 
-otheris. ... We may say that the smell of a rose, 
-when involving conscious meaning or intention, is 
-mental.” 
-
+THE MEANING OF PHILOSOPHERS i8i  
+“An experience is cogntiional," says Professor Dewey*  “which is contemporaneously aware of meaning some-
+thing beyond itself. Both the meaning and the thing  MEANT are elements in the same situation. One  is present as notpresentinthesamewayinwhichthe  otheris... We may say that the smell of a rose,  when involving conscious meaning or intention, is  mental.”  
 Historians, of philosophy* and childhood,® Re-
-formers, social * and grammatical,*all have their own 
-uses of the word, obvious yet undefined. Even the 
-clearest thinkers refrain from further analysis. Through-
-out Professor G. E. Moore’s writings ‘ meaning ’ 
-plays a conspicuous part, and in Pnnctpta Ethtca we 
-may read. 
-
-" Onr question ‘ What is good >' may have still another 
-MEANING We may, m the third place, mean to ask not what 
-thmg or things are good, but how ' good ' is to be defined. . . . 
-That which is meant by ‘ good' is, in fact, except its converse 
-
-^ J Dewey, The Influence of Darwin upon Philosophy, 1910, pp 88, 
-104 
-
-* " Ideas, we may say generally, are symbols, as serving to express 
-some actuail moment or phase of expenence and guiding towards 
-fuller actualization of what is, or seems to be, involved in its existence 
-or MEANING . That no idea is ever wholly adequate means that 
-the suggestiveness of expenence is inexhaustible " Forsyth, English 
-Philosophy, 1910, pp 180, 183 
-
-’ " Babies leatn to speak words partly by adopting sounds of their 
-own and giving them a meaning, partly by pure mutation . . 
-Whether the b^y invents both sounds and meaning seems doubtful 
-Certainly they change the meaning of words " E. L Cabot, 
-Seven Ages of Childhood, 1921, pp 22, 23, 24 
-
-* " The MEANING of Mamage I How really simple it is for you 
-
-and me to ascertain its precise meaning, and yet what desperate 
-and disappointing efforts have been made to discover it . .If 
-our children knew all about them they would yet have missed the 
-essential meaning of human mamage A knowledge of life outside 
-humamty would not enlighten us as to what marriage meant for men 
-and women Manifestly, if we desire to know the meaning 
-
-of mamage, we ought to search out homes where the conditions are 
-favourable We may ungrudgingly pay a welldeserved tribute to 
-
-the mother cat Motherhood means already much in the ammal 
-world I " G Spiller, The Meaning of Mamage, 1914, pp 13 
-
-° Strictly speaking, the image is often both a part of the meaning 
-and a symbol of the rest of it As part it gives one of the meaning's 
-details Part of the meaning of an idea is its fixed reference to some 
-objective identity Meaning alone passes between mind and 
-
-mind A D Sheffield, Grammar and Thinking, pp. 34 
+formers, social * and grammatical,*all have their own  uses of the word, obvious yet undefined. Even the  clearest thinkers refrain from further analysis. Through-
+out Professor G. E. Moore’s writings ‘ meaning ’  plays a conspicuous part, and in Pnnctpta Ethtca we  may read.  
+" Onr question ‘ What is good >' may have still another  MEANING We may, m the third place, mean to ask not what  thmg or things are good, but how ' good ' is to be defined.  That which is meant by ‘ good' is, in fact, except its converse  
+^ J Dewey, The Influence of Darwin upon Philosophy, 1910, pp 88,  104  
+* " Ideas, we may say generally, are symbols, as serving to express  some actuail moment or phase of expenence and guiding towards  fuller actualization of what is, or seems to be, involved in its existence  or MEANING . That no idea is ever wholly adequate means that  the suggestiveness of expenence is inexhaustible " Forsyth, English  Philosophy, 1910, pp 180, 183  
+’ " Babies leatn to speak words partly by adopting sounds of their  own and giving them a meaning, partly by pure mutation .  Whether the b^y invents both sounds and meaning seems doubtful  Certainly they change the meaning of words " E. L Cabot,  Seven Ages of Childhood, 1921, pp 22, 23, 24  
+* " The MEANING of Mamage I How really simple it is for you  
+and me to ascertain its precise meaning, and yet what desperate  and disappointing efforts have been made to discover it .If  our children knew all about them they would yet have missed the  essential meaning of human mamage A knowledge of life outside  humamty would not enlighten us as to what marriage meant for men  and women Manifestly, if we desire to know the meaning  
+of mamage, we ought to search out homes where the conditions are  favourable We may ungrudgingly pay a welldeserved tribute to  
+the mother cat Motherhood means already much in the ammal  world I " G Spiller, The Meaning of Mamage, 1914, pp 13  
+° Strictly speaking, the image is often both a part of the meaning  and a symbol of the rest of it As part it gives one of the meaning's  details Part of the meaning of an idea is its fixed reference to some  objective identity Meaning alone passes between mind and  
+mind A D Sheffield, Grammar and Thinking, pp. 34  
 
 
-
-I82 THE MEANING OF MEANING 
-
-‘bad,’ the only simple object of thought which is peculiar to 
-Ethics. 
-
-It would be absolutely meaningless to say that oranges 
-were yellow, unless yellow did in the end mean just ‘ yellow ’ . . ■ 
-We should not get very far with our science if we were bound to 
-hold that everything which was yellow meant exactly the same 
-thmg as yellow 
-
-In general, however, ethical philosophers have attempted to 
-define good without recognizmg what such an attempt must 
-mean." 1 
-
-Nor is it only in Ethics that important philosophical 
-positions are based on this arbitrary foundation. 
-“ Things, as we know, are largely constructions,” says 
-one modern metaphysician*“a synthesis of sense 
-elements and meanings. . . . The concept is no mere 
-word, because it has meaning. ... A universal, as 
-the object of a meaning, is not a mental act.” It is 
-impossible, urges another,* who also speaks of “ analys-
+I82 THE MEANING OF MEANING  
+‘bad,’ the only simple object of thought which is peculiar to  Ethics.  
+It would be absolutely meaningless to say that oranges  were yellow, unless yellow did in the end mean just ‘ yellow ’ . ■  We should not get very far with our science if we were bound to  hold that everything which was yellow meant exactly the same  thmg as yellow  
+In general, however, ethical philosophers have attempted to  define good without recognizmg what such an attempt must  mean." 1  
+Nor is it only in Ethics that important philosophical  positions are based on this arbitrary foundation.  “ Things, as we know, are largely constructions,” says  one modern metaphysician*“a synthesis of sense  elements and meanings. The concept is no mere  word, because it has meaning... A universal, as  the object of a meaning, is not a mental act.” It is  impossible, urges another,* who also speaks of “ analys-
 ing the MEANING of a process of change from a con-
-ceptual point of view,” to imagine “that we ourselves 
-can be analysed into sensedata, for sensedata are 
-‘ given ’ or ‘ presented ’ by the very meaning of the 
-term.” And again, “It is doubtless true that ‘body’ 
-and ‘ mind ’ are used with more than one meaning to 
-which a reasonable significance may be attached.”* 
-Meanings to which significance is attached have also 
-the authority of Lotze,* who held that “ historical 
-persons and events, in spite of all the significance 
-attached to their meaning, are often very insignificant 
-
-I Pp 5 , 14. IS 
-
-We may compare Professor Perry's method of approach . 
-
-“ What can the realization of goodness mean if not that what is 
-natural and necessary, actual and real shall also be good ? 
-
-" If it be essential to the meaning of P^osophy that it should issue 
-from life, it is equally essential that it should return to life But 
-this connection of philosophy with life does not mean its reduction 
-to the terms of life as conceived in the marketplace 
-
-“ The present age is made insensible to the meaning of life through 
-preoccupation with its very achievements" R B. Perry, The 
-Approach to Philosophy, pp 422, 426, 427 
-
-• D H. Parker, The Self and Nature, 1917, pp. 158, 190 
-
-• C A Richardson, Spiritual Pluralism, 1920, pp 10, 40. 
-
-• Ibid, p. 184 
-
-® Outlines of Xslhetics, m the English translation by Professor 
-G. T Ladd of Yale, p. 86. 
+ceptual point of view,” to imagine “that we ourselves  can be analysed into sensedata, for sensedata are  ‘ given ’ or ‘ presented ’ by the very meaning of the  term.” And again, “It is doubtless true that ‘body’  and ‘ mind ’ are used with more than one meaning to  which a reasonable significance may be attached.”*  Meanings to which significance is attached have also  the authority of Lotze,* who held that “ historical  persons and events, in spite of all the significance  attached to their meaning, are often very insignificant  
+I Pp 5 , 14. IS  
+We may compare Professor Perry's method of approach .  
+“ What can the realization of goodness mean if not that what is  natural and necessary, actual and real shall also be good ?  
+" If it be essential to the meaning of P^osophy that it should issue  from life, it is equally essential that it should return to life But  this connection of philosophy with life does not mean its reduction  to the terms of life as conceived in the marketplace  
+“ The present age is made insensible to the meaning of life through  preoccupation with its very achievements" R B. Perry, The  Approach to Philosophy, pp 422, 426, 427  
+• D H. Parker, The Self and Nature, 1917, pp. 158, 190  
+• C A Richardson, Spiritual Pluralism, 1920, pp 10, 40.  
+• Ibid, p. 184  
+® Outlines of Xslhetics, m the English translation by Professor  G. T Ladd of Yale, p. 86.  
 
 
+THE MEANING OF PHILOSOPHERS 183  
+in the external form of their appearance,” and who  also informs us that in Moorish architecture “ the  soaring pointed bow of horseshoe shape has no  properly constructive meaning, but rather recalls the  mighty opening of a cleft” (p. 66), while a landscape  in pictorial composition “ has a meaning only as a part  of the actual world ” (p. 82).  
+Esthetics, however, has always flourished on loose  usage, and nonphilosophic writers have here been  more than usually persistent in their invocation of the  word at all critical points. “Colour as colour,” writes  Van Gogh, “ means something; this should not be  ignored, but rather turned to account.”* The poet, too,  we read, “ said what he meant, but his meaning seems  to beckon away beyond itself, or rather to expand into  something boundless which is only focussed in it.”*  
+And so on in a crescendo of reiteration as the  emotions of the cosmologist soar through the  Empyrean :  
+" Thought transformed the whole status of life and gave a  new MEANING to reahty Our age is great in opportunity to  
+those who would wrest from life a meaning and a value " ^  
+"All reasoning as to the meaning of life leads us back to the  mstmcts As soon as we deny sensation any other signifi-
 
-THE MEANING OF PHILOSOPHERS 183 
-
-in the external form of their appearance,” and who 
-also informs us that in Moorish architecture “ the 
-soaring pointed bow of horseshoe shape has no 
-properly constructive meaning, but rather recalls the 
-mighty opening of a cleft” (p. 66), while a landscape 
-in pictorial composition “ has a meaning only as a part 
-of the actual world ” (p. 82). 
-
-Esthetics, however, has always flourished on loose 
-usage, and nonphilosophic writers have here been 
-more than usually persistent in their invocation of the 
-word at all critical points. “Colour as colour,” writes 
-Van Gogh, “ means something; this should not be 
-ignored, but rather turned to account.”* The poet, too, 
-we read, “ said what he meant, but his meaning seems 
-to beckon away beyond itself, or rather to expand into 
-something boundless which is only focussed in it.”* 
-
-And so on in a crescendo of reiteration as the 
-emotions of the cosmologist soar through the 
-Empyrean : 
-
-" Thought transformed the whole status of life and gave a 
-new MEANING to reahty Our age is great in opportunity to 
-
-those who would wrest from life a meaning and a value " ^ 
-
-"All reasoning as to the meaning of life leads us back to the 
-mstmcts As soon as we deny sensation any other signifi-
-
-cance beyond that which belongs to it as a regulator of activity, 
-the various values of life that have been promulgated since the 
-dawn of civilization become quite meaningless."* 
-
-"Just as the artist finds his own meaning in the successful 
-struggle to express it, so, from our point of view, God realizes 
-His own intention m the process of effecting it . .In the 
-world, novelty is part of its meaning, and this is particularly 
-true of an experience such as we found the Divme experience 
-must be, where the Future is the dominant element of Time,”* 
-
-" God IS both fact and ideal, not merely in the common way 
-of a value attaching to a fact or truth, as utility attaches to my 
-inkstand, but in the peculiar way in which a meaning attaches 
-
-* Letters of a PostImpressionist, p 29 
-
-* A C Bradley, Oxford Lectures on Poetry, 1901, p 26 
-
-* R Eucken, The Meaning and Value of Life, 1909, pp 38, 147 
-
-* I Harris, The Significance of Existence, 1911, p 319 
-
-* W Temple, The Nature of Personality, 1911, p 107 
+cance beyond that which belongs to it as a regulator of activity,  the various values of life that have been promulgated since the  dawn of civilization become quite meaningless."*  
+"Just as the artist finds his own meaning in the successful  struggle to express it, so, from our point of view, God realizes  His own intention m the process of effecting it .In the  world, novelty is part of its meaning, and this is particularly  true of an experience such as we found the Divme experience  must be, where the Future is the dominant element of Time,”*  
+" God IS both fact and ideal, not merely in the common way  of a value attaching to a fact or truth, as utility attaches to my  inkstand, but in the peculiar way in which a meaning attaches  
+* Letters of a PostImpressionist, p 29  
+* A C Bradley, Oxford Lectures on Poetry, 1901, p 26  
+* R Eucken, The Meaning and Value of Life, 1909, pp 38, 147  
+* I Harris, The Significance of Existence, 1911, p 319  
+* W Temple, The Nature of Personality, 1911, p 107  
 
 
-
-i84 the meaning OF MEANING 
-
-to that which symbolizes it . . The objective symbol or 
-emblem is attributed or assigned to this meaning, to represent it 
-vicariously . 
-
-"Reality m the last analysis is what we mean by reality. 
-Reality apart from all meaning for experience is an absurdity 
-or a mere word 
-
-"The actudl side of every moment of consciousness only 
-possesses value or meaning as a token of the vast potentiality 
-beyond itself . . 
-
+i84 the meaning OF MEANING  
+to that which symbolizes it . The objective symbol or  emblem is attributed or assigned to this meaning, to represent it  vicariously .  
+"Reality m the last analysis is what we mean by reality.  Reality apart from all meaning for experience is an absurdity  or a mere word  
+"The actudl side of every moment of consciousness only  possesses value or meaning as a token of the vast potentiality  beyond itself .  
 "Cosmological theones of worldprocess often halt and be-
-come MEANINGLESS through a refusal to introduce the notion of 
-infinity ” * 
-
-" In order to have a clearer view of these consequences, we 
-should consider the scope of these meanings more clearly, ex-
-amine whether they can, like the meanings of words, be taken 
-away . As by the meaning of a word I know, or as it were 
-see, into another man's thought, so by the meaning of my spirit 
-I see into that Bemg which I call God ... By God is meant 
-an Eternal or Infimte Spirit" * 
-
-J M Baldwin, Genetic Theory of Reality, 1915, pp 108, 227 
-
-* E Belfort Bax, The Real, the Rational, and the Alogical, 1920, 
-pp 233 , ®43 
-
+come MEANINGLESS through a refusal to introduce the notion of  infinity ” *  
+" In order to have a clearer view of these consequences, we  should consider the scope of these meanings more clearly, ex-
+amine whether they can, like the meanings of words, be taken  away . As by the meaning of a word I know, or as it were  see, into another man's thought, so by the meaning of my spirit  I see into that Bemg which I call God ... By God is meant  an Eternal or Infimte Spirit" *  
+J M Baldwin, Genetic Theory of Reality, 1915, pp 108, 227  
+* E Belfort Bax, The Real, the Rational, and the Alogical, 1920,  pp 233 , ®43  
 * Professor K. J. Spaldmg, Desire and Reason, 1922, p. 8. 
